@@ -1,2 +1,2 @@
 # node-blog
-A simple blogging system in Node
+A simple blogging system using Node, Express, MongoDB and Monk.   
